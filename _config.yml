@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiaosong Jia"
 title_separator          : "-"
 name                     : &name "Xiaosong(Shawn) Jia"
-description              : &description "Senior Student of IEEE Honor Class (Computer Science and Technology), Shanghai Jiao Tong University"
+description              : &description "Senior Student, IEEE Honor Class (Computer Science and Technology), Shanghai Jiao Tong University"
 url                      : https://jiaxiaosong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiaxiaosong/jiaxiaosong.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiaosong(Shawn) Jia"
   avatar           : "profile.png"
-  bio              : "Senior Student of IEEE Honor Class (Computer Science and Technology), Shanghai Jiao Tong University"
+  bio              : "SSenior Student, IEEE Honor Class (Computer Science and Technology), Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
