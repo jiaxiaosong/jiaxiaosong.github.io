@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-<font color="#dd0000">Click to View My Up-to-date Curriculum Vitae.</font> [Click to View My Up-to-date Curriculum Vitae!](http://jiaxiaosong.github.io/files/CV.pdf)
+[Click to View My Up-to-date Curriculum Vitae!](http://jiaxiaosong.github.io/files/CV.pdf)
 <!-- <embed src="http://jiaxiaosong.github.io/files/CV.pdf" width="650" height="1800" type='application/pdf'> -->
 
 Education
