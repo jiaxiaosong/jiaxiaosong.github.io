@@ -19,12 +19,12 @@ Education
   
 Research experiences
 ======
-* 7/2018 - present: Research Assistant
+* Jul. 2019 - present: Research Assistant
   * [University of California, Berkeley](https://www.berkeley.edu/)
   * Topic: Extracting and interpreting drivers’ interactive behaviors based on vehicles' trajectories
   * Supervisor: Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/)
 
-* 2/2018 - present: Research Assistant
+* Feb. 2018 - Jun. 2019: Research Assistant
   * [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/)
   * Topic: Web Data Mining, Social Network Analysis
   * Supervisor: Prof. [Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/)
@@ -33,5 +33,5 @@ Research experiences
 Publications 
 ======
 * [Who do you care? Extracting interactive patterns in driving behaviors via unsupervised learning](http://jiaxiaosong.github.io/files/CVPR_2020_under_review.pdf)
-  * <b>Xiaosong Jia<b>, Liting Sun, Wei Zhan, Masayoshi Tomizuka
+  * <b>Xiaosong Jia, Liting Sun, Wei Zhan, Masayoshi Tomizuka
 
