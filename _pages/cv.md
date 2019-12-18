@@ -42,5 +42,5 @@ Publications
   * Under review of *Conference on Database Systems for Advanced Applications* (**DASFAA**), 2020
   
 * [Using Survival Theory in Early Pattern Detection for Viral Cascades](http://jiaxiaosong.github.io/files/TKDE_major_revision.pdf)
-  * Xiaofeng Gao, **Xiaosong Jia**,Chaoqi Yang, Guihai Chen
+  * Xiaofeng Gao, **Xiaosong Jia**, Chaoqi Yang, Guihai Chen
   * Under major revision of *IEEE Transactions on Knowledge and Data Engineering Journal* (**TKDE**)
