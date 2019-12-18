@@ -13,7 +13,8 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Computer Science and Technology, [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), 2020(expected), 
+* B.Eng. in Computer Science and Technology, [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), 2020(expected)
+  * GPA: 90.36/100  Rank: 6/95
   * [IEEE Honor Class](http://english.seiee.sjtu.edu.cn/english/info/8338.htm): Elite undergraduate program of SJTU
   * [Zhiyuan Honor College](https://zhiyuan.sjtu.edu.cn/articles/701): Top 5% students in SJTU
   
@@ -34,4 +35,12 @@ Publications
 ======
 * [Who do you care? Extracting interactive patterns in driving behaviors via unsupervised learning](http://jiaxiaosong.github.io/files/CVPR_2020_under_review.pdf)
   * **Xiaosong Jia**, Liting Sun, Wei Zhan, Masayoshi Tomizuka
+  * Under review of *Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2020
 
+* [SentiMem: Attentive Memory Networks for Sentiment Classification in User Review](http://jiaxiaosong.github.io/files/DASFAA_2020_in_submission.pdf)
+  * **Xiaosong Jia**, Qitian Wu, Xiaofeng Gao,  Guihai Chen
+  * Under review of *Conference on Database Systems for Advanced Applications* (**DASFAA**), 2020
+  
+* [Using Survival Theory in Early Pattern Detection for Viral Cascades](http://jiaxiaosong.github.io/files/TKDE_major_revision.pdf)
+  * Xiaofeng Gao, **Xiaosong Jia**,Chaoqi Yang, Guihai Chen
+  * Under major revision of *IEEE Transactions on Knowledge and Data Engineering Journal* (**TKDE**) (**DASFAA**), 2020
