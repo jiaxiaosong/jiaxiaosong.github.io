@@ -9,32 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
+<font color="#dd0000">Click to View My Up-to-date Curriculum Vitae.</font> [Click to View My Up-to-date Curriculum Vitae!](http://jiaxiaosong.github.io/files/CV.pdf)
+<!-- <embed src="http://jiaxiaosong.github.io/files/CV.pdf" width="650" height="1800" type='application/pdf'> -->
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
+* B.Eng. in Computer Science and Technology, Shanghai Jiao Tong University, 2020(expected), 
+  * IEEE Honor Class: elite undergraduate program of SJTU
+  * Zhiyuan Honor College: Top 5% students in SJTU
+  
+Research experiences
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 7/2018 - present: Research Assistant
+  * University of California, Berkeley
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Prof. Masayoshi Tomizuka
 
-* Fall 2015: Research Assistant
+* 2/2018 - present: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
