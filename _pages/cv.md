@@ -33,5 +33,5 @@ Research experiences
 Publications 
 ======
 * [Who do you care? Extracting interactive patterns in driving behaviors via unsupervised learning](http://jiaxiaosong.github.io/files/CVPR_2020_under_review.pdf)
-  * <b>Xiaosong Jia, Liting Sun, Wei Zhan, Masayoshi Tomizuka
+  * **Xiaosong Jia**, Liting Sun, Wei Zhan, Masayoshi Tomizuka
 
