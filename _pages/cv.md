@@ -8,21 +8,21 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Click to View My Up-to-date Curriculum Vitae!](http://jiaxiaosong.github.io/files/CV.pdf)
+[Click to View My Up-to-date Curriculum Vitae](http://jiaxiaosong.github.io/files/CV.pdf)
 <!-- <embed src="http://jiaxiaosong.github.io/files/CV.pdf" width="650" height="1800" type='application/pdf'> -->
 
 Education
 ======
 * B.Eng. in Computer Science and Technology, Shanghai Jiao Tong University, 2020(expected), 
-  * IEEE Honor Class: elite undergraduate program of SJTU
+  * IEEE Honor Class: Elite undergraduate program of SJTU
   * Zhiyuan Honor College: Top 5% students in SJTU
   
 Research experiences
 ======
 * 7/2018 - present: Research Assistant
   * University of California, Berkeley
-  * Duties included: Tagging issues
-  * Supervisor: Prof. Masayoshi Tomizuka
+  * Topic: Extracting and interpreting drivers’ interactive behaviors based on vehicles' trajectories
+  * Supervisor: Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/)
 
 * 2/2018 - present: Research Assistant
   * Github University
