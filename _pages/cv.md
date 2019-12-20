@@ -22,7 +22,7 @@ Education
 Research experiences
 ======
 * Dec. 2019 - present: Research Assistant
-  * Shanghai Jiao Tong University](http://en.sjtu.edu.cn/)
+  * [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/)
   * Topic: Graph Mining, Time Series
   * Supervisor: Prof. [Junchi Yan](http://thinklab.sjtu.edu.cn/index.html)
   
