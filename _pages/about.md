@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+* [Click to View My Up-to-date Curriculum Vitae](http://jiaxiaosong.github.io/files/CV.pdf)
+* I am a senior student in the Computer Science and Technology Department of [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/). My GPA is 90.36/100 and I rank 6 out of 95 students in [IEEE **Honor** Class](http://english.seiee.sjtu.edu.cn/english/info/8338.htm). I am also a member of [Zhiyuan Honor College](https://zhiyuan.sjtu.edu.cn/articles/701).
 
-* I am a Senior student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/), advised by Prof. [Stefano Ermon]
 
 A data-driven personal website
 ======
