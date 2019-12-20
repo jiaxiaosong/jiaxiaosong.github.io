@@ -17,7 +17,8 @@ Education
   * GPA: 90.36/100  Rank: 6/95
   * [IEEE Honor Class](http://english.seiee.sjtu.edu.cn/english/info/8338.htm): Elite undergraduate program of SJTU
   * [Zhiyuan Honor College](https://zhiyuan.sjtu.edu.cn/articles/701): Top 5% students in SJTU
-  
+  * Major Courses (Selected): Information Theory 100 (1/93), Mathematical Analysis(Hons) 92 (8/223), Discrete Mathematics 95 (8/93),   Intelligent Speech Interaction System 97 (3/33), Computer Organization 96 (3/91), Artificial Intelligence 95 (2/89), Computer System Engineering 96 (1/170), Data Mining Techniques 97 (3/76) [Click to View My Official Transcripts](http://jiaxiaosong.github.io/files/transcript_all.pdf)
+
 Research experiences
 ======
 * Dec. 2019 - present: Research Assistant
