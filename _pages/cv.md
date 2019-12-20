@@ -20,6 +20,11 @@ Education
   
 Research experiences
 ======
+* Dec. 2019 - present: Research Assistant
+  * Shanghai Jiao Tong University](http://en.sjtu.edu.cn/)
+  * Topic: Graph Mining, Time Series
+  * Supervisor: Prof. [Junchi Yan](http://thinklab.sjtu.edu.cn/index.html)
+  
 * Jul. 2019 - present: Research Assistant
   * [University of California, Berkeley](https://www.berkeley.edu/)
   * Topic: Extracting and interpreting drivers’ interactive behaviors based on vehicles' trajectories
