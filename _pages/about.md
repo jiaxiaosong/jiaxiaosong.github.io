@@ -16,5 +16,10 @@ redirect_from:
 News
 ======
 * Dec. 2019, the topic of my bachelor thesis would be about Graph Mining advised by Prof. [Junchi Yan](http://thinklab.sjtu.edu.cn/index.html).
-* Nov. 2019, 
-* Oct. 2019, I came back to Shanghai Jiao Tong University from UC berkeley.  A Wonderful three month! Thanks for Dr. Liting Sun, Dr. Wei Zhan, and Prof. Masayoshi Tomizuka's guidance. Here is the [evaluation form](http://jiaxiaosong.github.io/files/j1_eval_Xiaosong_Jia_signed.pdf) of my work at UC Berkeley.
+* Dec. 2019, the TKDE paper is under the major revision.
+* Nov. 2019, one paper is submitted to CVPR 2020, which is about discovring drivers' interactive patterns by unsupervised learning.
+* Oct. 2019, I come back to Shanghai Jiao Tong University from UC berkeley.  A Wonderful three month! Thanks for Dr. Liting Sun, Dr. Wei Zhan, and Prof. Masayoshi Tomizuka's guidance. Here is the [evaluation form](http://jiaxiaosong.github.io/files/j1_eval_Xiaosong_Jia_signed.pdf) of my work at UC Berkeley.
+* Jul. 2019, I begin my internship on the topic of drivers' interactive behaviors at UC Berkeley.
+* Jun. 2019, one paper is in preparation for publication, which is about sentiment classification with modeling of users’ characteristics.
+* Dec. 2018, one paper is submitted to TKDE advised by Prof. Xiaofeng Gao, which is about prediction of hot topics on the social media.
+
