@@ -9,7 +9,7 @@ redirect_from:
 ---
 * [Click to View My Up-to-date Curriculum Vitae](http://jiaxiaosong.github.io/files/CV.pdf)
 * I am a senior student in the Computer Science and Technology Department of [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/). My GPA is 90.36/100 and I rank 6 out of 95 students in [IEEE Honor Class](http://english.seiee.sjtu.edu.cn/english/info/8338.htm). I am also a member of [Zhiyuan Honor College](https://zhiyuan.sjtu.edu.cn/articles/701).
-* My research interests lie in the general area of AI and its applications, particularly in Time Series, Graph Mining, Social Network Analysis, and Natural Language Processing. I am also open to exploring other interesting topics.
+* My research interests lie in the general area of AI and its applications, particularly in Web Data Mining, Time Series, Graph Mining, Social Network Analysis, and Natural Language Processing. I am also open to exploring other interesting topics.
 * I plan to pursue a Ph.D. program that starts in fall 2020.
 
 A data-driven personal website
