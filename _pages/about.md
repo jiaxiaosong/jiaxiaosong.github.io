@@ -17,4 +17,4 @@ News
 ======
 * Dec. 2019, the topic of my bachelor thesis would be about Graph Mining advised by Prof. [Junchi Yan](http://thinklab.sjtu.edu.cn/index.html).
 * Nov. 2019, 
-* Oct. 2019, I came back to Shanghai Jiao Tong University from UC berkeley.  A Wonderful three month! Many thanks for Dr. Liting Sun, Dr. Wei Zhan, and Prof. Masayoshi Tomizuka's guidance. Here is the [evaluation form](http://jiaxiaosong.github.io/files/j1_eval_Xiaosong Jia_signed.pdf) of my work at UC Berkeley.
+* Oct. 2019, I came back to Shanghai Jiao Tong University from UC berkeley.  A Wonderful three month! Many thanks for Dr. Liting Sun, Dr. Wei Zhan, and Prof. Masayoshi Tomizuka's guidance. Here is the [evaluation form](http://jiaxiaosong.github.io/files/j1_eval_Xiaosong_Jia_signed.pdf) of my work at UC Berkeley.
