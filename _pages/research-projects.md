@@ -8,7 +8,7 @@ author_profile: true
 
 * [Unsupervised Classification for Drivers’ Interactive Behaviors](#anchor)
 
-* [Path planning for a laser scanning robot system](#anchor2)
+* [Generalizable Drivers’ Interactive Pattern Learning](#anchor2)
 
 
 ### <span id = "anchor">Unsupervised Classification for Drivers’ Interactive Behaviors</span>
