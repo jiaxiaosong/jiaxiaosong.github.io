@@ -25,4 +25,4 @@ In this project, we propose a framework which can unsupervisedly classify intera
 * Advisor: Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/), UC Berkeley
 <center><img src='/images/results2.png' width="33%" height="33%" /><img src='/images/scan_result05.png' width="33%" height="33%" /></center>
 
-In this project,  we propose a new task: judge and locate the interactive behaviors based on a pair of vehicles' trajectories. Correspondingly, we propose a framework for the new tasks including labeling rules, data preprocessing and augmentation methods, a neural network structure, loss functions, and metrics. Please refer to the first part of my [intern report] for details. (in preparation for IROS)
+In this project,  we propose a new task: judge and locate the interactive behaviors based on a pair of vehicles' trajectories. Correspondingly, we propose a framework for the new task including labeling rules, data preprocessing and augmentation methods, a neural network structure, loss functions, and metrics. Please refer to the first part of my [intern report] for details. (in preparation for IROS)
