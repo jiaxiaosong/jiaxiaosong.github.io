@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-* [A sampled-based trajectory planning method for urban autonomous vehicles](#anchor)
+* [Unsupervised Classification for Drivers’ Interactive Behaviors](#anchor)
 
 * [Path planning for a laser scanning robot system](#anchor2)
 
@@ -14,8 +14,8 @@ author_profile: true
 
 * [Smart car competition](#anchor4)
 
-### <span id = "anchor">A sampled-based trajectory planning method for urban autonomous vehicles</span>
-* Advisor: Masayoshi Tomizuka , IEEE Fellow and Professor of Mechanical Engineering, UC Berkeley
+### <span id = "anchor">Unsupervised Classification for Drivers’ Interactive Behaviors</span>
+* Advisor: Prof. Masayoshi Tomizuka from UC Berkeley
 
 <center><img src='/images/DEB work flow.png' width="75%" height="75%" /></center>
   
