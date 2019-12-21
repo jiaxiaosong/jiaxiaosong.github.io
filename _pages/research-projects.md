@@ -18,6 +18,9 @@ author_profile: true
   
 In this project, we propose a framework which can unsupervisedly classify interaction types only based on motions (X-Y coordinates) of two vehicles. We propose 3 auxiliary supervised tasks and a combined loss function which could solve the mode collapse problem during unsupervised learning. We find three explainable types of interactions by the proposed model, which brings insight for driver behavior modeling. [Click to View the Paper](http://jiaxiaosong.github.io/files/CVPR_2020_under_review.pdf) (under review of CVPR 2020)
 
+[<img src="https://img.youtube.com/vi/v5ppij0nyvg/maxresdefault.jpg" width="50%">](https://youtu.be/v5ppij0nyvg)
+
+
 <iframe width="10" height="10" src="https://www.youtube.com/embed/v5ppij0nyvg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
