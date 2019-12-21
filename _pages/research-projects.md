@@ -20,7 +20,7 @@ In this project, we propose a framework which can unsupervisedly classify intera
 
 
 <div width="50" height="50">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v5ppij0nyvg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="50" height="50" src="https://www.youtube.com/embed/v5ppij0nyvg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### <span id = "anchor2">Generalizable Drivers’ Interactive Pattern Learning</span>
