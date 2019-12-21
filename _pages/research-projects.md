@@ -15,7 +15,7 @@ author_profile: true
 * [Smart car competition](#anchor4)
 
 ### <span id = "anchor">Unsupervised Classification for Drivers’ Interactive Behaviors</span>
-* Advisor: Prof. Masayoshi Tomizuka from UC Berkeley
+* Advisor:Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/), UC Berkeley
 
 <center><img src='/images/DEB work flow.png' width="75%" height="75%" /></center>
   
