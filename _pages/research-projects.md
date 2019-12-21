@@ -12,7 +12,7 @@ author_profile: true
 
 
 ### <span id = "anchor">Unsupervised Classification for Drivers’ Interactive Behaviors</span>
-* Advisor:Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/), UC Berkeley
+* Advisor: Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/), UC Berkeley
 
 <center><img src='/images/unsup.PNG' width="50%" height="50" /></center>
   
@@ -21,8 +21,8 @@ In this project, we propose a framework which can unsupervisedly classify intera
 <iframe width="280" height="157" src="https://www.youtube.com/embed/v5ppij0nyvg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### <span id = "anchor2">Path planning for a laser scanning robot system</span>
-* Advisor: Huijun Gao , IEEE Fellow and Professor of Department of Automation, Harbin Institute of Technology
+### <span id = "anchor2">Generalizable Drivers’ Interactive Pattern Learning</span>
+* Advisor: Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/), UC Berkeley
 <center><img src='/images/results2.png' width="33%" height="33%" /><img src='/images/scan_result05.png' width="33%" height="33%" /></center>
 
 Laser scanning has been widely used in the industrial manufacturing, especially in reverse engineering, quality control and surface defect detection. Achieving automatic scanning can succeed in reducing production costs and increasing production efficiency. In our project, we proposed an automatic intelligent scanning system based on ROS, including robot arm, RGBD camera and line laser scanner.
