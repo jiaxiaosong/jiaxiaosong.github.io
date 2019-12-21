@@ -32,3 +32,13 @@ In this project,  we propose a new task: judge and locate the interactive behavi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M3dbjGGZZ_k" frameborder="0" allow="accelerometer; autoplay;encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### <span id = "anchor3">Sentiment Classification with Modeling of Users’ Characteristics</span>
+* Advisor: Prof. [Xiaofeng Gao](http://www.cs.sjtu.edu.cn/~gao-xf/), Shanghai Jiao Tong University
+
+<center><img src='/images/senti.png' width="50%" height="50" /></center>
+
+Sentiment analysis for textual contents has attracted lots of attentions. However, most existing models only utilize the target text to mine the deep relations from text representation features to sentiment values, ignoring user's historicalally published texts, which also contain much valuable information. Correspondingly, we propose SentiMem, a new sentiment analysis framework that incorporates user's historical texts to improve the accuracy of sentiment classification. 
+
+In SentiMem, to exploit users' interests and preferences such as dog person, football fan, and foodie hidden in the texts, we adopt SenticNet to capture the concept-level semantics; as for users' temperaments like optimism, peevishness, and pessimism, we combine multiple sentiment lexicons with multi-head attention mechanism to extract users' diverse characters. Then, we design two memory networks: Interests Memory Network and Temperaments Memory Network to store information about users' interests and temperaments respectively.
+
+[Click to View the Paper](http://jiaxiaosong.github.io/files/DASFAA_2020_in_submission.pdf)
+
