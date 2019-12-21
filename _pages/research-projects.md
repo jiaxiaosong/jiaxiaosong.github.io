@@ -17,7 +17,7 @@ author_profile: true
 ### <span id = "anchor">Unsupervised Classification for Drivers’ Interactive Behaviors</span>
 * Advisor:Prof. [Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/), UC Berkeley
 
-<center><img src='https://github.com/jiaxiaosong/jiaxiaosong.github.io/blob/master/files/unsup_framework.pdf' width="75%" height="75%" /></center>
+<center><img src='https://github.com/jiaxiaosong/jiaxiaosong.github.io/blob/master/files/unsup_framework.PNG' width="75%" height="75%" /></center>
   
 In this project, we designed a motion planning method for urban autonomous vehicles. This method have the advantages of fast sampling speed, time-bounded collison-free path generation and sampling-based decision making method. 
 
