@@ -48,6 +48,8 @@ In SentiMem, to exploit users' interests and preferences such as dog person, foo
 
 ### <span id = "anchor4">Hot Topic Detection on Early Stage by Survival Theory</span>
 
+<center><img src='/images/survival.PNG' width="50%" height="50" /></center>
 
+In this work, we apply the survival theory into our model with  theoretical analysis and establish a burst detection model for cascade diffusion, which can handle the quick rise-and-fall pattern as well as the distinct life span of tweet cascades at the early stage. We utilize both static and dynamic information from cascades and obtain a dimidiate boundary with two Gaussian distribution for viral and non-viral cascades.
 
 [Click to View the Paper](http://jiaxiaosong.github.io/files/TKDE_major_revision.pdf)
