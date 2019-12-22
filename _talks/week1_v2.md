@@ -7,5 +7,5 @@ venue: "MSC Lab, UC Berkeley"
 date: 2019-07-07
 location: "Berkeley, United States"
 ---
-Detailed result and next step.
-[Slide](http://jiaxiaosong.github.io/files/week1_2_talk.pdf)
+Detailed result and next step
+[Slides](http://jiaxiaosong.github.io/files/week1_2_talk.pdf)
