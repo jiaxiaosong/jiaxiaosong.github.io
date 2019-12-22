@@ -8,4 +8,4 @@ date: 2019-07-05
 location: "Berkeley, United States"
 ---
 Formulate the problem and simple result
-[Slide](http://jiaxiaosong.github.io/files/week1_1_talk.pdf)
+[Slides](http://jiaxiaosong.github.io/files/week1_1_talk.pdf)
