@@ -8,4 +8,4 @@ date: 2019-07-01
 location: "Berkeley, United States"
 ---
 First meeting
-[Slide](http://jiaxiaosong.github.io/files/week0_talk.pdf)
+[Slides](http://jiaxiaosong.github.io/files/week0_talk.pdf)
