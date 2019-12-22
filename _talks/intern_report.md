@@ -7,5 +7,5 @@ venue: "MSC Lab, UC Berkeley"
 date: 2019-09-30
 location: "Berkeley, United States"
 ---
-Final Report about my work at MSC Lab
+Final report about my work at MSC Lab
 [Slides](http://jiaxiaosong.github.io/files/Intern_Report.pptx)
