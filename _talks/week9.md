@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/week9
 venue: "MSC Lab, UC Berkeley"
-date: 2019-08-21
+date: 2019-08-26
 location: "Berkeley, United States"
 ---
 GNN
